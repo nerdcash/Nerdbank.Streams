@@ -48,7 +48,7 @@
     "gulp-typescript": "^6.0.0-alpha.1",
     "jest": "^29.5.0",
     "jshint": "^2.13.6",
-    "mkdirp": "^1.0.4",
+    "mkdirp": "^3.0.1",
     "nerdbank-gitversioning": "^3.6.133",
     "path": "^0.12.7",
     "prettier": "^3.0.0",
