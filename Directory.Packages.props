@@ -5,7 +5,7 @@
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
     <BenchmarkDotNetVersion>0.13.12</BenchmarkDotNetVersion>
-    <AspNetCoreVersion>2.2.0</AspNetCoreVersion>
+    <AspNetCoreVersion>8.0.11</AspNetCoreVersion>
     <VSThreadingVersion>17.12.19</VSThreadingVersion>
   </PropertyGroup>
   <ItemGroup>
@@ -22,7 +22,7 @@
     <PackageVersion Include="NSubstitute.Analyzers.CSharp" Version="1.0.17" />
     <PackageVersion Include="PInvoke.Kernel32" Version="0.7.124" />
     <PackageVersion Include="StreamJsonRpc" Version="2.20.17" />
-    <PackageVersion Include="System.IO.Pipelines" Version="8.0.0" />
+    <PackageVersion Include="System.IO.Pipelines" Version="9.0.0" />
     <PackageVersion Include="System.IO.Pipes" Version="4.3.0" />
     <PackageVersion Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" />
     <PackageVersion Include="System.Text.Json" Version="8.0.5" />
