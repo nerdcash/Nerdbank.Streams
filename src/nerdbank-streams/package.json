@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "@types/jest": "^29.5.2",
-    "@types/mkdirp": "^1.0.2",
+    "@types/mkdirp": "^2.0.0",
     "@types/msgpack-lite": "^0.1.8",
     "@types/node": "^16.11.6",
     "@types/promise": "^7.1.30",
